@@ -1,5 +1,7 @@
 ![Header](https://github.com/Bukvoe/Bukvoe/blob/main/assets/header.png)
 ### Hi there 123👋
+![SQL](https://img.shields.io/badge/-Sql-2d2b43?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-JavaScript-2d2b43?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-2d2b43?style=for-the-badge&logo=.net&logoColor=ffffff)
 <!--
 **Bukvoe/Bukvoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
