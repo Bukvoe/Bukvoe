@@ -5,6 +5,6 @@
 ![JS](https://img.shields.io/badge/-JavaScript-2d2b43?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-Sql-2d2b43?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
-<div align="center">
+<div align="center" width="1000" heigth="300">
   <img href="https://github.com/Bukvoe/Bukvoe/blob/main/assets/githubload.gif"/>
 </div>
