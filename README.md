@@ -6,5 +6,5 @@
 ![SQL](https://img.shields.io/badge/-Sql-2d2b43?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/Bukvoe/Bukvoe/blob/main/assets/githubload.gif">
+  <img width="100" height="100" src="https://github.com/Bukvoe/Bukvoe/blob/main/assets/githubload.gif">
 </p>
